@@ -1,2 +1,2 @@
 # ML-projects
-This repository contains projects related to machine learning.
+This repository contains files created while studying machine learning.
